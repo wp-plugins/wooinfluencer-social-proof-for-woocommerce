@@ -1,5 +1,5 @@
 ﻿=== WooInfluencer - Social Proof for WooCoomerce ===
-Contributors: (shopitpress, arslan104, hafizusman)
+Contributors: (shopitpress, fransanchezoria, arslan104, hafizusman)
 Tags: wooinfluencer, social-proof, woocommerce, sales count, sales counter
 Requires at least: 3.0.1
 Tested up to: 4.2
