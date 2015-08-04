@@ -11,7 +11,7 @@ Display real time proof of your sales to incentive other potential buyers.
 
 == Description ==
 
-> #### Drive more sales, build trust and improve your conversion rate
+> ### Drive more sales, build trust and improve your conversion rate
 >
 > WooInfluencer is the only full-featured social proof plugin for WooCommerce
 > with a fully customisable style and advanced features.
