@@ -103,7 +103,7 @@ function settings_page_ui() { ?>
   		<h3>Social proof for WooCoomerce</h3>
   	</div>
   	<div class="wsp-header-right">
-  		<img class="wsp-header-img" src="<?php echo WOOINFLUENCER_URI ?>assets/images/icon-wooinfluencer.png">
+  		<img class="wsp-header-img" src="<?php echo WOOINFLUENCER_URI ?>admin/assets/images/icon-wooinfluencer.png">
   	</div>
   </div>
 
